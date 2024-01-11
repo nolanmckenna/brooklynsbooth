@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nolanmckenna.github.io/brooklynsbooth/static/css/main.ceebaf62.css",
-    "main.js": "/nolanmckenna.github.io/brooklynsbooth/static/js/main.7f317b87.js",
-    "static/js/787.c0a58541.chunk.js": "/nolanmckenna.github.io/brooklynsbooth/static/js/787.c0a58541.chunk.js",
-    "static/media/brooklynsbooth.jpeg": "/nolanmckenna.github.io/brooklynsbooth/static/media/brooklynsbooth.aafd84e488b13a61a79b.jpeg",
-    "index.html": "/nolanmckenna.github.io/brooklynsbooth/index.html",
-    "main.ceebaf62.css.map": "/nolanmckenna.github.io/brooklynsbooth/static/css/main.ceebaf62.css.map",
-    "main.7f317b87.js.map": "/nolanmckenna.github.io/brooklynsbooth/static/js/main.7f317b87.js.map",
-    "787.c0a58541.chunk.js.map": "/nolanmckenna.github.io/brooklynsbooth/static/js/787.c0a58541.chunk.js.map"
+    "main.css": "/brooklynsbooth/static/css/main.a746eb36.css",
+    "main.js": "/brooklynsbooth/static/js/main.8f1b5a76.js",
+    "static/js/787.c0a58541.chunk.js": "/brooklynsbooth/static/js/787.c0a58541.chunk.js",
+    "static/media/brooklynsbooth.jpeg": "/brooklynsbooth/static/media/brooklynsbooth.aafd84e488b13a61a79b.jpeg",
+    "index.html": "/brooklynsbooth/index.html",
+    "main.a746eb36.css.map": "/brooklynsbooth/static/css/main.a746eb36.css.map",
+    "main.8f1b5a76.js.map": "/brooklynsbooth/static/js/main.8f1b5a76.js.map",
+    "787.c0a58541.chunk.js.map": "/brooklynsbooth/static/js/787.c0a58541.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ceebaf62.css",
-    "static/js/main.7f317b87.js"
+    "static/css/main.a746eb36.css",
+    "static/js/main.8f1b5a76.js"
   ]
 }
